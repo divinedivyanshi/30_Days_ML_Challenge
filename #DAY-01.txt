@@ -1,0 +1,8 @@
+#DAY-01 'Introduction to Machine Learning" 
+
+So , We'll start at the very beginning: what exactly is “machine learning”, and how is it used in the real world?
+Read this tutorial -  https://www.kaggle.com/code/dansbecker/how-models-work  
+
+and after this , have some basic knowledge about "Basic Data Exploration" as well you’ll learn all about pandas, the primary tool used by data scientists for exploring and manipulating data 👇🏻
+https://www.kaggle.com/code/dansbecker/basic-data-exploration
+

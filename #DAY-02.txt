@@ -1,0 +1,4 @@
+#DAY-02 "Types of Machine Learning" 
+- Supervised Learning : https://www.kaggle.com/code/mahmoudlimam/supervised-learning-tutorial 
+- Unsupervised Learning : https://www.kaggle.com/code/sashr07/unsupervised-learning-tutorial 
+- Reinforcement Learning : https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
