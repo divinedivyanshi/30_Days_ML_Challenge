@@ -1,0 +1,13 @@
+#DAY-03 of the 30DaysofML challenge 
+
+Today's Topic -   The Machine Learning Workflow
+
+
+
+1. Data Acquisition : Use kaggle datasets ( https://www.kaggle.com/datasets) or Google Dataset Search ( https://datasetsearch.research.google.com/) 
+
+2. Data Preprocessing :  https://scikit-learn.org/stable/modules/preprocessing.html  (Official Scikit-learn documentation explaining data preprocessing techniques)
+
+3. Model Evaluation :  https://developers.google.com/machine-learning/testing-debugging/metrics/metrics (Explanation of common metrics used for evaluating machine learning models) 
+
+4. Deployment : https://aws.amazon.com/ai/machine-learning/ ( (Blog post discussing strategies for deploying and serving machine learning models)
