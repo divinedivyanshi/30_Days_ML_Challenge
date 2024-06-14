@@ -1,0 +1,18 @@
+#DAY-05 of 30DaysofML challenge 
+
+Today's Topic : Careers in Machine Learning and Challenges in ML 
+
+1. Explainable AI (XAI): Understand how ML models reach their decisions is crucial
+A Beginner's Guide to Explainable Artificial Intelligence (XAI) (Blog): https://towardsdatascience.com/what-does-explainable-ai-really-mean-f8f2f908a9f5 
+
+2. Data Bias and Fairness: ML models can perpetuate biases present in data. Learn how to mitigate bias:
+Algorithmic Justice League: https://www.ajl.org/
+Fairness, Accountability, and Transparency in AI (FAT):* https://www.fatml.org/ 
+
+3. Model Interpretability: Interpreting the internal workings of complex models is challenging. Explore resources on:
+SHAP: A Game Theory Approach to Explainable Machine Learning: https://shap.readthedocs.io/en/latest/generated/shap.Explainer.html
+LIME: Local Interpretable Model-Agnostic Explanations: https://github.com/thomasp85/lime 
+
+4. Scalability and Computational Challenges: Training large models can be computationally expensive. Explore resources on:
+Large Model AI Alliance: https://www.modelalliance.org/research
+Distributed Machine Learning with TensorFlow (Blog): https://www.tensorflow.org/guide/distributed_training
