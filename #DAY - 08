@@ -1,0 +1,9 @@
+#DAY - 08 of 30DaysofML 
+Topic : Data Cleaning and Preprocessing Techniques (Missing Values,
+Outliers, Feature Scaling) 
+
+- Missing Data: https://www.kaggle.com/code/twinkle0705/a-comprehensive-guide-to-handle-missing-values (This interactive course by Kaggle walks you through techniques for identifying and handling missing data)
+
+- Data Cleaning: https://developers.google.com/machine-learning/crash-course/representation/cleaning-data (Part of Google's Machine Learning Crash Course, this section covers common data cleaning techniques like handling missing values and outliers)  
+
+- Data Preprocessing: https://scikit-learn.org/stable/modules/preprocessing.html (The scikit-learn library offers functionalities for data cleaning and preprocessing. This tutorial provides examples of handling missing values and scaling data )
