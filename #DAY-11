@@ -1,0 +1,5 @@
+#DAY-11 of our 30DaysofML challenge and toda's topic is - Working with Imbalanced Datasets 
+
+- https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/ 
+- https://www.geeksforgeeks.org/how-to-deal-with-class-imbalance-in-classification/ 
+- https://www.datacamp.com/tutorial/diving-deep-imbalanced-data ( this explores the challenges of imbalanced data and introduces various approaches to address them, including resampling techniques and cost-sensitive learning )
