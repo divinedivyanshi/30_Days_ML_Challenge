@@ -1,5 +1,7 @@
-As Linear regression is a vast topic , so we're proceeding with another day 
 #DAY-13 of our 30DaysofML series 
+Today's Topic : Logistic Regression 
 
-Linear Regression Part -2 👇🏻
-https://www.kaggle.com/code/codeblogger/machine-learning-tutorial-linear-regression
+- https://www.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-logistic-models/v/logistic-function-application 
+This will provide you a clear and concise introduction to logistic regression. It covers the core concepts like the sigmoid function, decision boundary, and interpreting results 
+
+- Lecture Notes on Logistic Regression by Stanford CS229 - http://deeplearning.stanford.edu/tutorial/supervised/LogisticRegression/
