@@ -1,0 +1,7 @@
+#DAY-15 of our 30DaysofML series 
+Today's Topic :  Decision Tress 
+
+- https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html ( It's a great hands-on guide for building and evaluating decision tree models ) 
+- https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/ ( covers various aspects of decision trees, including their types, algorithms, and implementation in Python with libraries like Scikit-learn)
+
+YT tutorial for this - https://www.youtube.com/watch?v=7VeUPuFGJHk
