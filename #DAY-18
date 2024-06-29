@@ -1,0 +1,11 @@
+#DAY 18 of our 30DaysofML series  
+
+Today's Topic : Naive Bayes 
+
+1. Simplilearn offers a clear explanation of Naive Bayes with the underlying Bayes' Theorem:  https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/ 
+
+2. If you're comfortable with probability, GeeksforGeeks gives a more mathematical treatment:  https://www.geeksforgeeks.org/naive-bayes-classifiers/
+
+Additional Resource : https://www.datacamp.com/tutorial/naive-bayes-scikit-learn 
+
+DataCamp has a hands-on tutorial using Python's scikit-learn library
