@@ -1,0 +1,12 @@
+#DAY-19 of our 30DaysofML series 
+
+Today's topic : Principal component analysis (PCA) 
+- https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html ( it covers PCA concepts, implementation steps, and code examples using Python's scikit-learn library)
+
+Failure Cases of PCA:
+
+1. Non-linear Data: PCA assumes a linear relationship between features. If the data is inherently non-linear, PCA won't effectively capture its underlying structure.
+2. Irrelevant Features: If your data has irrelevant features, PCA may not identify the most important components for analysis. Consider feature selection techniques before applying PCA.
+3. High Dimensionality: While PCA reduces dimensions, it can be computationally expensive for very high-dimensional data. Consider alternative dimensionality reduction techniques like t-SNE in such cases
+
+Remember, PCA is a powerful tool, but it has limitations. It's crucial to understand these limitations and choose the right technique for your specific data and problem
